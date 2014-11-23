@@ -18,6 +18,6 @@ This execution create an image mandel.ppm
 * machine_file: A list of potential host which can participe to program execution. An example of this file type is mF.
 Each process create an image mandel-n.ppm for look how a work being divised.
 
-![](https://github.com/Lalmas/Mandelbrot/blob/master/mandel.ppm)
+![Image](https://github.com/Lalmas/Mandelbrot/blob/master/mandel.ppm)
 
 
